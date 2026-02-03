@@ -303,7 +303,7 @@
     <string name="font">Fuente</string>
     <string name="background">Fondo</string>
     <string name="official_rating">Clasificación parental</string>
-    <string name="ends_at">Termina en %1$s</string>
+    <string name="ends_at">Termina a las %1$s</string>
     <string name="enter_server_address">Introduzca la dirección del servidor</string>
     <string name="no_servers_found">No se encontraron servidores</string>
     <string name="media_information">Información multimedia</string>
